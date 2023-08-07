@@ -13,3 +13,10 @@ While rounding Alpha Centauri en route to its first destination—the torrid 55 
 ## 🔗 Links
 [dataset](https://www.kaggle.com/competitions/spaceship-titanic/)
 
+
+## Roadmap
+
+- pre processing
+
+- model training
+
